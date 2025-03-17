@@ -1,0 +1,135 @@
+[
+    {
+        "cwe_name": "improper neutralization of special elements used in an os command ('os command injection')",
+        "cwe_id": "78",
+        "success_frequency": 8,
+        "failed_detected_frequency": 113,
+        "total_frequency": 121
+    },
+    {
+        "cwe_name": "improper neutralization of argument delimiters in a command ('argument injection')",
+        "cwe_id": "88",
+        "success_frequency": 5,
+        "failed_detected_frequency": 113,
+        "total_frequency": 118
+    },
+    {
+        "cwe_name": "use of weak hash",
+        "cwe_id": "328",
+        "success_frequency": 6,
+        "failed_detected_frequency": 77,
+        "total_frequency": 83
+    },
+    {
+        "cwe_name": "improper control of generation of code ('code injection')",
+        "cwe_id": "94",
+        "success_frequency": 5,
+        "failed_detected_frequency": 57,
+        "total_frequency": 62
+    },
+    {
+        "cwe_name": "incorrect privilege assignment",
+        "cwe_id": "266",
+        "success_frequency": 1,
+        "failed_detected_frequency": 55,
+        "total_frequency": 56
+    },
+    {
+        "cwe_name": "cleartext transmission of sensitive information",
+        "cwe_id": "319",
+        "success_frequency": 4,
+        "failed_detected_frequency": 15,
+        "total_frequency": 19
+    },
+    {
+        "cwe_name": "use of hard-coded credentials",
+        "cwe_id": "798",
+        "success_frequency": 0,
+        "failed_detected_frequency": 19,
+        "total_frequency": 19
+    },
+    {
+        "cwe_name": "improper limitation of a pathname to a restricted directory ('path traversal')",
+        "cwe_id": "22",
+        "success_frequency": 2,
+        "failed_detected_frequency": 15,
+        "total_frequency": 17
+    },
+    {
+        "cwe_name": "unrestricted upload of file with dangerous type",
+        "cwe_id": "434",
+        "success_frequency": 7,
+        "failed_detected_frequency": 5,
+        "total_frequency": 12
+    },
+    {
+        "cwe_name": "cleartext storage of sensitive information",
+        "cwe_id": "312",
+        "success_frequency": 0,
+        "failed_detected_frequency": 9,
+        "total_frequency": 9
+    },
+    {
+        "cwe_name": "improper neutralization of special elements used in an sql command ('sql injection')",
+        "cwe_id": "89",
+        "success_frequency": 4,
+        "failed_detected_frequency": 4,
+        "total_frequency": 8
+    },
+    {
+        "cwe_name": "improper neutralization of input during web page generation ('cross-site scripting')",
+        "cwe_id": "79",
+        "success_frequency": 0,
+        "failed_detected_frequency": 8,
+        "total_frequency": 8
+    },
+    {
+        "cwe_name": "improper certificate validation",
+        "cwe_id": "295",
+        "success_frequency": 4,
+        "failed_detected_frequency": 1,
+        "total_frequency": 5
+    },
+    {
+        "cwe_name": "url redirection to untrusted site ('open redirect')",
+        "cwe_id": "601",
+        "success_frequency": 5,
+        "failed_detected_frequency": 0,
+        "total_frequency": 5
+    },
+    {
+        "cwe_name": "improper neutralization of special elements used in an ldap query ('ldap injection')",
+        "cwe_id": "90",
+        "success_frequency": 4,
+        "failed_detected_frequency": 0,
+        "total_frequency": 4
+    },
+    {
+        "cwe_name": "key exchange without entity authentication",
+        "cwe_id": "322",
+        "success_frequency": 0,
+        "failed_detected_frequency": 4,
+        "total_frequency": 4
+    },
+    {
+        "cwe_name": "improper output neutralization for logs",
+        "cwe_id": "117",
+        "success_frequency": 2,
+        "failed_detected_frequency": 1,
+        "total_frequency": 3
+    },
+    {
+        "cwe_name": "improper neutralization of crlf sequences ('crlf injection')",
+        "cwe_id": "93",
+        "success_frequency": 0,
+        "failed_detected_frequency": 1,
+        "total_frequency": 1
+    },
+    {
+        "cwe_name": "deserialization of untrusted data",
+        "cwe_id": "502",
+        "success_frequency": 0,
+        "failed_detected_frequency": 1,
+        "total_frequency": 1
+    }
+]

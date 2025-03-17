@@ -1,0 +1,26 @@
+{
+    "prompt": {
+        "llama3_8b": {
+            "comment": "only 32 total with acc of 0.34375",
+            "compare_rag": 0.34375,
+            "1st_rag": 0.4479166666666667
+        },
+        "codellama": {
+            "comment": "only 32 total with acc of 0.125",
+            "compare_rag": 0.16666666666666666,
+            "1st_rag": 0.16666666666666666
+        }
+    },
+    "tuned": {
+        "llama3_8b": {
+            "comment": "only 32 total with acc of 0.625",
+            "compare_rag": 0.7291666666666666,
+            "1st_rag": "only 97 total with acc of 0.6494845360824743"
+        },
+        "codellama": {
+            "comment": "only 32 total with acc of 0.15625",
+            "compare_rag": 0.3125,
+            "1st_rag": 0.2604166666666667
+        }
+    }
+}
